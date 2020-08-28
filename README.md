@@ -4,7 +4,6 @@
 /                                                                                       /
 /      LINK - https://covid-19-tracker-df2a7.web.app/                                   /
 /                                                                                       /
-/                                                                                       /
 /////////////////////////////////////////////////////////////////////////////////////////
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
